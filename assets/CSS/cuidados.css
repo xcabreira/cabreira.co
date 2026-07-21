@@ -65,6 +65,11 @@ li{
     color:white;
 }
 
+.linkGithub {
+    text-decoration: none;
+    color: white;
+}
+
 .instagram{
     display:inline-block;
     margin-top:15px;
